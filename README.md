@@ -10,4 +10,4 @@ How to use?
 2. After that the program will auto help login and fill in the evaluation form
 
 Note:
-The evaluation program only help you evaluate high evaluate to your tutor or lecture which is every section will give 10 marks. 
+The evaluation program only help you evaluate high evaluation to your tutor or lecture which is every section will give 10 marks. 
