@@ -9,5 +9,5 @@ How to use?
 1. Please provide you intranet studentID and password by typing in the console
 2. After that the program will auto help login and fill in the evaluation form
 
-Note
+Note:
 The evaluation program only help you evaluate high evaluate to your tutor or lecture which is every section will give 10 marks. 
