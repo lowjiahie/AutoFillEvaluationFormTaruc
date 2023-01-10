@@ -31,10 +31,9 @@ submitLoginBtn.click()
 time.sleep(1)
 
 # find the survey dropdown
-surveyDropdown = driver.find_element(By.XPATH,'(//a[@class="dropdown-toggle"])[10]')
-surveyDropdown.click()
+surveyDropdown = driver.find_element(By.CLASS_NAME, 'fa-pencil-square-o')
+surveyDropdown.find_element(By.XPATH,'..').click()
 time.sleep(1)
-
 
 # find the evaluation a tag link which placed at 53
 linkToEvaluate = driver.find_element(By.XPATH,'(//a)[53]')
